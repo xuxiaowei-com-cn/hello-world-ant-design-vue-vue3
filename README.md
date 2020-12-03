@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## 创建项目
+~~~
+npm install -g @vue/cli
+vue create hello-world-ant-design-vue-vue3
+~~~
